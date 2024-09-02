@@ -1,0 +1,1 @@
+3. What keyword is used to define a function in Python?
